@@ -1,4 +1,4 @@
-# django_first
+# 장고 기본 컨셉 익히기
 
 ## 사진 목록 화면
 ![image](https://user-images.githubusercontent.com/110436172/222922402-e1222cc4-346d-4b69-ab64-bd2baeac429c.png)
